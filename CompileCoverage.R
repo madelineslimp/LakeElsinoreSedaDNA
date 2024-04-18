@@ -1,3 +1,4 @@
+#Written by Dr. Levi Simons
 #rm(list=ls())
 
 #wd <- "~/scratch5/mslimp/LakeElsinore/HumanAln"
